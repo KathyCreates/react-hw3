@@ -22,4 +22,4 @@ npm run preview
 ```
 
 ## Demo
-Link: 
+Link: https://react-3hw.netlify.app/
